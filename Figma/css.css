@@ -1,0 +1,21 @@
+.first{
+    background: url(image/background1.jpg) no-repeat center center fixed;
+    min-width: 100%;
+    min-height: 100%;
+}
+.header{
+    margin-left: 282.5px;
+}
+.header-text{
+    color: azure;
+    margin-left: 30px;
+    text-decoration: none;
+}
+#logo{
+    margin-top: 40px;
+    margin-left: 30px;
+    width: 186px;
+    height: 45px;
+    left: 10px;
+    top: 10px;
+}
